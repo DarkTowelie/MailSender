@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "THFUObq6+Ug9namCxX7By5uaW0ethAhiI/JW/9DaD6A2IAa++LHgK/rR8kRiQGWVySeHE0HNQcNsvpIvBeEZGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igorb\\OneDrive\\Документы\\MailSender\\MailSender\\MailSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igorb\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\igorb\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\igorb\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
