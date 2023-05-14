@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-G:\Ученики\Бобров\MailSender\MailSender\obj\Debug\net6.0-windows\
+G:\Ученики\Бобров\MailSender2\MailSender\obj\Debug\net6.0-windows\
 MailSender
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-G:\Ученики\Бобров\MailSender\MailSender\App.xaml
+G:\Ученики\Бобров\MailSender2\MailSender\App.xaml
 3-219003772
 
-5-650940635
-197839949597
+7590979377
+1991037132833
 UserControls\LoginControl.xaml;UserControls\RegControl.xaml;Views\MainWindow.xaml;
 
 False

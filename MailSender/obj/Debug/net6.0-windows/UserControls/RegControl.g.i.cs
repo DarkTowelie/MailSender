@@ -61,7 +61,7 @@ namespace MailSender.UserControls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MailSender;V1.0.0.0;component/usercontrols/regcontrol.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MailSender;component/usercontrols/regcontrol.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\UserControls\RegControl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

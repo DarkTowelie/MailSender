@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "THFUObq6+Ug9namCxX7By5uaW0ethAhiI/JW/9DaD6A2IAa++LHgK/rR8kRiQGWVySeHE0HNQcNsvpIvBeEZGw==",
+  "dgSpecHash": "fncVlF917GGSTYAugoBj25Hvh3bc4n7XqUuS16vFD7F0dCZx9NXT/KLnYlfjjF/MRf6hcvPuAYBDlrj7sAcPsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\igorb\\OneDrive\\Документы\\MailSender\\MailSender\\MailSender.csproj",
+  "projectFilePath": "G:\\Ученики\\Бобров\\MailSender2\\MailSender\\MailSender.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\igorb\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
-    "C:\\Users\\igorb\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
-    "C:\\Users\\igorb\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    "C:\\Users\\ShestakovVV\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\ShestakovVV\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\ShestakovVV\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\ShestakovVV\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\ShestakovVV\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\ShestakovVV\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
   ],
   "logs": []
 }

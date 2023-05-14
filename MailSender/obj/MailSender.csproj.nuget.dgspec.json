@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\igorb\\OneDrive\\Документы\\MailSender\\MailSender\\MailSender.csproj": {}
+    "G:\\Ученики\\Бобров\\MailSender2\\MailSender\\MailSender.csproj": {}
   },
   "projects": {
-    "C:\\Users\\igorb\\OneDrive\\Документы\\MailSender\\MailSender\\MailSender.csproj": {
+    "G:\\Ученики\\Бобров\\MailSender2\\MailSender\\MailSender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\igorb\\OneDrive\\Документы\\MailSender\\MailSender\\MailSender.csproj",
+        "projectUniqueName": "G:\\Ученики\\Бобров\\MailSender2\\MailSender\\MailSender.csproj",
         "projectName": "MailSender",
-        "projectPath": "C:\\Users\\igorb\\OneDrive\\Документы\\MailSender\\MailSender\\MailSender.csproj",
-        "packagesPath": "C:\\Users\\igorb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\igorb\\OneDrive\\Документы\\MailSender\\MailSender\\obj\\",
+        "projectPath": "G:\\Ученики\\Бобров\\MailSender2\\MailSender\\MailSender.csproj",
+        "packagesPath": "C:\\Users\\ShestakovVV\\.nuget\\packages\\",
+        "outputPath": "G:\\Ученики\\Бобров\\MailSender2\\MailSender\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Programs\\Visual Studio\\SDK\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\igorb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ShestakovVV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,9 +44,17 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
             "MaterialDesignThemes": {
               "target": "Package",
-              "version": "[4.8.0, )"
+              "version": "[4.9.0, )"
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.117, )"
             }
           },
           "imports": [
